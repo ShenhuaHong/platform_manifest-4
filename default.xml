@@ -236,7 +236,6 @@
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk" />
   <project path="external/libxml2" name="platform/external/libxml2" groups="pdk,libxml2" />
-  <project path="external/libtextclassifier" name="platform/external/libtextclassifier" groups="pdk" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="pdk,libyuv" />
   <project path="external/linux-kselftest" name="platform/external/linux-kselftest" groups="vts,pdk" />
   <project path="external/lisa" name="platform/external/lisa" groups="pdk" />
@@ -253,7 +252,6 @@
   <project path="external/messageformat" name="platform/external/messageformat" groups="pdk" />
   <project path="external/Microsoft-GSL" name="platform/external/Microsoft-GSL" groups="pdk" />
   <project path="external/minijail" name="platform/external/minijail" groups="pdk" />
-  <project path="external/mksh" name="platform/external/mksh" groups="pdk" />
   <project path="external/mmc-utils" name="platform/external/mmc-utils" groups="pdk" />
   <project path="external/mockftpserver" name="platform/external/mockftpserver" groups="pdk" />
   <project path="external/mockito" name="platform/external/mockito" groups="pdk" />
